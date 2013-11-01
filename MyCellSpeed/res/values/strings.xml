@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string name=""></string> -->
+
+    <string name="app_name">MyCellSpeed</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="sec1_title">GPS Location</string>
+    <string name="sec1_dialog_gps_update">Fetching GPS Location</string>
+    <string name="sec1_01_row01_label">Latitude: </string>
+    <string name="sec1_01_row02_label">Longitude: </string>
+    <string name="sec1_01_row03_label">Result: </string>
+    <string name="sec1_01_button1_label">Update</string>
+    
+    <string name="sec2_title">Signal Info</string>
+    
+    <string name="sec3_title">Data Info</string>
+    <string name="sec3_dialog_speed_test">Testing Data Speed</string>
+    <string name="sec3_01_row01_button">Start Speed Test</string>
+    <string name="sec3_01_row01_spinner">Choose a file size</string>
+    <string-array name="sec3_01_row01_spinner_options">
+        <item>250kb</item>
+        <item>1mb</item>
+    </string-array>
+    
+    <string name="sec4_title">System Info</string>
+    <string name="sec4_01_title">Make/Model</string>
+    <string name="sec4_01_row01_label">Manufacturer: </string>
+    <string name="sec4_01_row01_value" />
+    <string name="sec4_01_row02_label">Phone Brand: </string>
+    <string name="sec4_01_row02_value" />
+    <string name="sec4_01_row03_label">Device/Model: </string>
+    <string name="sec4_01_row03_value" />
+    <string name="sec4_01_row04_label">Phone Type: </string>
+    <string name="sec4_01_row04_value" />
+    <string name="sec4_01_row05_label">IMEI (Device ID): </string>
+    <string name="sec4_01_row05_value" />
+    <string name="sec4_01_row06_label">IMEI Software Version: </string>
+    <string name="sec4_01_row06_value" />
+    <string name="sec4_01_row07_label">TEST VALUE: </string>
+    <string name="sec4_01_row07_value" />
+    
+    <string name="sec4_02_title">Service Info</string>
+    <string name="sec4_02_row01_label">IMSI ID: </string>
+    <string name="sec4_02_row01_value" />
+    <string name="sec4_02_row02_label">Phone #: </string>
+    <string name="sec4_02_row02_value" />
+    <string name="sec4_02_row03_label">Network Type: </string>
+    <string name="sec4_02_row03_value" />
+    <string name="sec4_02_row04_label">Provider: </string>
+    <string name="sec4_02_row04_value" />
+    <string name="sec4_02_row05_label">(MCC/MNC): </string>
+    <string name="sec4_02_row05_value" />
+    <string name="sec4_02_row06_label">Group ID (Lv. 1): </string>
+    <string name="sec4_02_row06_value" />
+    <string name="sec4_02_row07_label">SIM Serial #: </string>
+    <string name="sec4_02_row07_value" />
+    <string name="sec4_02_row08_label">SIM State: </string>
+    <string name="sec4_02_row08_value" />
+    <string name="sec4_02_row09_label">SIM Operator: </string>
+    <string name="sec4_02_row09_value" />
+    <string name="sec4_02_row10_label">Group ID (Lv. 1): </string>
+    <string name="sec4_02_row10_value" />
+    
+    <string name="sec4_03_title">Operating System Details</string>
+    <string name="sec4_03_row01_label">Version: </string>
+    <string name="sec4_03_row01_value" />
+    
+    <string name="error_title">Error Window</string>
+    <string name="error_content">View not available!</string>
+
+</resources>
