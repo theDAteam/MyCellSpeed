@@ -36,12 +36,12 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 public class DataInfoFragment extends Fragment implements OnClickListener {
-	public static final String S3_BUCKET = "com.mycellspeed.dev";
+	public static final String S3_BUCKET = "mycellspeed.dev";
 	public static final String S3_DATA_DEST = "/android_inbound";
 	public static final String S3_DOWNLOAD = "/android_outbound";
 	public static final String S3_UPLOAD = "/android_garbage";
-	public static final String ACCESS_KEY_ID = "AKIAJ3W2NBVOWKCXES7Q";
-	public static final String SECRET_KEY = "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";
+	public static final String ACCESS_KEY_ID = "AKIAJBT3LEN33YZIUR4A";
+	public static final String SECRET_KEY = "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";
 	
 	private static Context c;
 	private static LocationListener locationListener;
